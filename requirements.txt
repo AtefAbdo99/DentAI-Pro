@@ -11,9 +11,6 @@ albumentations>=1.3.0
 # PDF Report Generation
 reportlab>=3.6.12
 
-# Development Tools
-logging>=0.5.1.2
-
 # Optional but recommended
 opencv-python>=4.7.0  # Required by albumentations
 typing-extensions>=4.4.0
